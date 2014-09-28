@@ -57,6 +57,9 @@ Why you should start a startup w/ Dustin Moskovitz
 * *Passion* -- you will go through all of these struggles to do it. You're passion will cause other people to join you in your mission.
 * *Aptitude* -- the world needs you to do it. The world needs **it** and the world needs **you**. Find what people want and why you're the person to do it.
 
+Readings
+========
+
 * Dustin's Recommended Reading -
 	- Hard Thing About Hard Things
 	- Zero to One
@@ -64,3 +67,7 @@ Why you should start a startup w/ Dustin Moskovitz
 	- The 15 Commitments of Conscious Leadership
 	- The Tao of Leadership
 	- Nonviolent Communication
+
+* Sam's Reading -
+	- [Advice for Ambitious 19 year olds by Sam Altman](http://blog.samaltman.com/advice-for-ambitious-19-year-olds)
+	- [Good and Bad Reasons to Become an Entrepreneur by Dustin Moskovitz](https://medium.com/i-m-h-o/good-and-bad-reasons-to-become-an-entrepreneur-decf0766de8d)
