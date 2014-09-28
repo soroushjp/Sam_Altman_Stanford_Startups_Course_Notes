@@ -1,3 +1,6 @@
+Overview
+========
+
 * Four areas that matter
 	- Idea
 	- Product
@@ -24,7 +27,8 @@
 * What makes you different from out there? One big difference or completely different.
 * Think about what people want first. What you want to build second.
 
-== Building a product ==
+Building a product
+==============
 
 * Talk to customers, build, exercise, sleep and eat. Rinse and repeat.
 * Conferences, PR, even hiring etc. not important at first. These will be way easier if you build something people want, so do that first.
@@ -33,7 +37,8 @@
 * Great founders don't put anyone between themselves and their users. Don't hire sales or customer service people.
 * Employees build what the CEO measures -- registrations, active users, cohort retention, revenue, net promoter scores. Focus on growth.
 
-== Why you should start a startup w/ Dustin Moskovitz == 
+Why you should start a startup w/ Dustin Moskovitz
+=======================================
 
 * Common reasons: Glamorous, your own boss, flexibility, $$$
 * Entrepreneurship is much more stressful than people think -- Economist article, Entrepreneur's Anonymous
